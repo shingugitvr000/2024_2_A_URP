@@ -2024,7 +2024,7 @@
     "m_Title": "Main Foam Voronoi Sample",
     "m_Position": {
         "x": -2698.0,
-        "y": -110.99994659423828
+        "y": -111.0
     }
 }
 
@@ -2088,7 +2088,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -2539,8 +2539,8 @@
     "m_ObjectId": "46acac7f89a3437d88429e3efc3429aa",
     "m_Title": "Combining Texture and intersection foam",
     "m_Position": {
-        "x": -660.0000610351563,
-        "y": -87.99998474121094
+        "x": -942.0,
+        "y": -71.99993133544922
     }
 }
 
@@ -2580,7 +2580,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3430,7 +3430,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3543,8 +3543,8 @@
     "m_ObjectId": "6a0f0683ee9f4a4b9ec59f24282d8307",
     "m_Title": "Water Depth Color",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -1540.0,
+        "y": 673.0
     }
 }
 
@@ -3710,10 +3710,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -635.0000610351563,
-            "y": 101.00000762939453,
-            "width": 166.00003051757813,
-            "height": 34.00000762939453
+            "x": -917.0000610351563,
+            "y": 116.99996948242188,
+            "width": 166.00006103515626,
+            "height": 34.00001525878906
         }
     },
     "m_Slots": [
@@ -3997,10 +3997,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -238.0000762939453,
-            "y": -28.99997901916504,
-            "width": 166.00003051757813,
-            "height": 34.0
+            "x": -520.0000610351563,
+            "y": -12.99998664855957,
+            "width": 165.99993896484376,
+            "height": 34.00000762939453
         }
     },
     "m_Slots": [
@@ -4202,7 +4202,7 @@
     "m_Title": "Distort UVs Based on Flow Map",
     "m_Position": {
         "x": -3532.0,
-        "y": 727.0001831054688
+        "y": 727.0
     }
 }
 
@@ -4276,7 +4276,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -4613,7 +4613,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -5699,7 +5699,7 @@
     "m_ObjectId": "c2581aaa643e420f8989ab32a97b203f",
     "m_Title": "Dark Foam Voronoi Sampe",
     "m_Position": {
-        "x": -2178.000244140625,
+        "x": -2178.0,
         "y": -660.0
     }
 }
@@ -6124,10 +6124,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -24.000030517578126,
-            "y": 51.00002670288086,
-            "width": 208.00001525878907,
-            "height": 326.0
+            "x": -306.0000915527344,
+            "y": 66.99998474121094,
+            "width": 207.99996948242188,
+            "height": 326.00006103515627
         }
     },
     "m_Slots": [
@@ -6620,10 +6620,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -386.0000305175781,
-            "y": 62.99999237060547,
-            "width": 208.00001525878907,
-            "height": 326.0
+            "x": -668.0,
+            "y": 79.00003051757813,
+            "width": 207.99993896484376,
+            "height": 325.9999694824219
         }
     },
     "m_Slots": [
