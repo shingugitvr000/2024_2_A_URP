@@ -3149,8 +3149,8 @@
     "m_ObjectId": "96e716b7358248c5806f664afccc49b4",
     "m_Title": "SCANLINES",
     "m_Position": {
-        "x": -1668.9998779296875,
-        "y": 670.0000610351563
+        "x": -1669.0,
+        "y": 670.0
     }
 }
 
@@ -3923,8 +3923,8 @@
     "m_ObjectId": "bf5ab9c0f7eb49b2ae00b38c926ead8f",
     "m_Title": "INTERSECTION NOISE",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -2008.0,
+        "y": -5.0
     }
 }
 
@@ -4691,8 +4691,8 @@
     "m_ObjectId": "e1f6b483f0574a4492e5557431cb3cc5",
     "m_Title": "INTERSECTION",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -1822.0,
+        "y": -814.0
     }
 }
 
